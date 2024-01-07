@@ -1,9 +1,9 @@
-<h1 align="center">Hey There👋, I'm Ayush Sarfare</h1>
+<h1 align="center">Hey there 🙋🏻‍♂️, I'm Ayush Sarfare !!</h1>
 <h3 align="center">Welcome to my coding realm! 🚀 
  Here's where the magic happens — a concoction of passion, code, and endless possibilities.</h3>
 <img align="right" alt="coding" width="400" src="https://store.sirclo.com/blog/wp-content/uploads/2022/07/Banner-Blog-06-14-1024x576.jpg">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=somesh-chaudhari&label=Profile%20views&color=0e75b6&style=flat" alt="somesh-chaudhari" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=AyushSarfare&label=Profile%20views&color=0e75b6&style=flat" alt="AyushSarfare" /> </p>
 
 - **🌐 About Me :** I’m currently a first-year MCA student dancing with the binary stars. 🎓 On a journey to decode the secrets of web development, I'm a tech enthusiast armed with caffeine, curiosity, and a love for clean code.
 
@@ -11,11 +11,13 @@
 
 - **🚀 Let's Connect and Collaborate :** Tech is a party, and everyone's invited! Whether you're a fellow coder, mentor, or just curious about the tech scene, let's connect. Slide into my DMs for web development banter, collaboration ideas, or just to geek out over the latest trends.
 
-- **📫 How to reach me :** **(ayushsarfare2811@gmail.com)**
+- **📫 How to reach me :** **( ayushsarfare2811@gmail.com )**
 
 - **🌟 Stay in the Loop :** Follow me for updates, tech talks, and random musings. Join me on this wild ride as I navigate the vast universe of tech and code.
 
-- **📄 Know about my experiences :** **(www.linkedin.com/in/ayushsarfare)**
+- **📄 Know about my experiences :** **( www.linkedin.com/in/ayushsarfare )**
+
+- **Happy coding! 🎉✨ #CodeExplorer #WebDevAdventures #TechEnthusiast #MCAJourney 🚀💡**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -28,6 +30,4 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyushSarfare&show_icons=true&locale=en&layout=compact" alt="AyushSarfare" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AyushSarfare&show_icons=true&locale=en" alt="AyushSarfare" /></p>
-
-**Happy coding! 🎉✨ #CodeExplorer #WebDevAdventures #TechEnthusiast #MCAJourney 🚀💡**
 
