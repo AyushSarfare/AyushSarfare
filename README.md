@@ -1,5 +1,3 @@
-Happy coding! 🎉✨ #CodeExplorer #WebDevAdventures #TechEnthusiast #MCAJourney 🚀💡
-
 <h1 align="center">Hey There👋, I'm Ayush Sarfare</h1>
 <h3 align="center">Welcome to my coding realm! 🚀 
  Here's where the magic happens — a concoction of passion, code, and endless possibilities.</h3>
@@ -30,4 +28,6 @@ Happy coding! 🎉✨ #CodeExplorer #WebDevAdventures #TechEnthusiast #MCAJourne
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AyushSarfare&show_icons=true&locale=en&layout=compact" alt="AyushSarfare" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=AyushSarfare&show_icons=true&locale=en" alt="AyushSarfare" /></p>
+
+**Happy coding! 🎉✨ #CodeExplorer #WebDevAdventures #TechEnthusiast #MCAJourney 🚀💡**
 
