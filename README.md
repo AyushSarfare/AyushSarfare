@@ -1,7 +1,7 @@
 <h1 align="center">Hey there 🙋🏻‍♂️, I'm Ayush Sarfare !!</h1>
 <h3 align="center">Welcome to my coding realm! 🚀 
  Here's where the magic happens - <br> A concoction of passion, code, and endless possibilities.</h3>
-<img align="right" alt="coding" width="400" src="https://store.sirclo.com/blog/wp-content/uploads/2022/07/Banner-Blog-06-14-1024x576.jpg">
+<img align="right" alt="coding" width=400" margin-top="2rem" src="https://qph.cf2.quoracdn.net/main-qimg-79159f094a1c2d76099f2c7ffa34591d">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=AyushSarfare&label=Profile%20views&color=0e75b6&style=flat" alt="AyushSarfare" /> </p>
 
